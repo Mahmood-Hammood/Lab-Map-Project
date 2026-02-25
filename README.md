@@ -35,45 +35,17 @@ Du kannst das Projekt entweder direkt mit Node.js oder via Docker starten.
 
 ### 2.2 Start direkt: Right click auf index.html file >> open with live server
 
-### 2.3 Start mit Node.js
-
-1. Repository klonen bzw. Projektordner öffnen
-2. Abhängigkeiten installieren:
-
-   ```bash
-   npm install
-   ```
-
-3. Dev-Server starten (statischer File-Server über `serve`):
-
-   ```bash
-   npm start
-   ```
-
-4. Im Browser die ausgegebene URL öffnen (standardmäßig z. B. `http://localhost:3000`).
-
-Die Karte lädt die verifizierten Anbieter aus `data-collection/germany_verified.json`.
-
 ### 2.4 Start mit Docker
 
-1. Image bauen (aus dem Projektwurzelverzeichnis):
+## Start mit Docker
 
-   ```bash
-   docker build -t lab-map:latest .
-   ```
+```bash
+git clone https://github.com/Mahmood-Hammod/Lab-Map-Project
+cd Lab-Map-Project
+docker build -t lab-map:latest .
+docker run -d -p 8080:80 lab-map:latest
 
-2. Container starten und Port 8080 nach außen mappen:
-
-   ```bash
-   docker run -d --name lab-map-container -p 8080:80 lab-map:latest
-   ```
-
-3. Im Browser aufrufen:
-
-   ```
-   http://localhost:8080
-   ```
-
+Die App unter http://localhost:8080 erreichbar
 ---
 
 ## 3. Datenbeschaffung & Pipeline
