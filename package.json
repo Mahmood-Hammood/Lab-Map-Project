@@ -1,0 +1,25 @@
+{
+  "name": "lab-map-project",
+  "version": "1.0.0",
+  "description": "Interactive lab map with data-collection scripts for German DEXA and blood providers.",
+  "private": true,
+  "main": "script.js",
+  "scripts": {
+    "start": "serve .",
+    "fetch:places": "node scripts/fetchPlaces.js",
+    "prefilter": "node scripts/preFilterProviders.js",
+    "verify": "node scripts/scraps.js",
+    "build:data": "npm run fetch:places && npm run prefilter && npm run verify",
+    "test:places": "node scripts/testplaces.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "ISC"
+}

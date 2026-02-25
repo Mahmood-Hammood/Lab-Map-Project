@@ -1,0 +1,931 @@
+[
+  {
+    "place_id": "ChIJ2dfDv5YLsEcRQeJB5rMn0TM",
+    "name": "Lang W. Prof. Dr.med., Maschek Prof. Dr.med., Delventhal S. Dr.med.",
+    "formattedAddress": "Feodor-Lynen-Straße 21, 30625 Hannover, Germany",
+    "location": {
+      "lat": 52.3895431,
+      "lng": 9.799683199999999
+    },
+    "website": "https://www.synlab.de/lab/hannover",
+    "phone": "+49 511 2351010",
+    "rating": 3,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Hannover", "grid:78"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:11:23.767Z",
+    "searchContext": {
+      "city": "Hannover",
+      "query": "laboratory Hannover"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.155Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJnRNyG6R0sEcRXku3rXKUZwM",
+    "name": "Labor Hannover MVZ GmbH",
+    "formattedAddress": "Großer Kolonnenweg 18C, 30163 Hannover, Germany",
+    "location": {
+      "lat": 52.406109,
+      "lng": 9.738871
+    },
+    "website": "https://labor-augsburg-mvz.de/laborgruppe/labor-hannover-mvz",
+    "phone": "+49 511 8562570",
+    "rating": 4.4,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Hannover"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:11:23.767Z",
+    "searchContext": {
+      "city": "Hannover",
+      "query": "laboratory Hannover"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.155Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["blutabnahme"],
+      "confidenceScore": 0.35,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJIQjIg3f2r0cRgubzMKC7adY",
+    "name": "HIB Blutanalyselabor Unternehmergesellschaft (haftungsbeschränkt)",
+    "formattedAddress": "Papenstieg 8, 38100 Braunschweig, Germany",
+    "location": {
+      "lat": 52.2651695,
+      "lng": 10.5227357
+    },
+    "website": "http://blutanalyselabor.de/",
+    "phone": "+49 531 2311325",
+    "rating": 4.5,
+    "types": ["medical_lab", "point_of_interest", "health", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Braunschweig"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:11:29.747Z",
+    "searchContext": {
+      "city": "Braunschweig",
+      "query": "laboratory Braunschweig"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.161Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["blutabnahme"],
+      "confidenceScore": 0.3,
+      "pagesScanned": 6
+    }
+  },
+  {
+    "place_id": "ChIJO81s5XbmuUcR2bhX7_Wmjs4",
+    "name": "Medizinisches Versorgungszentrum Zentrum für Tumordiagnostik und -therapie",
+    "formattedAddress": "Am Natruper Holz 69, 49076 Osnabrück, Germany",
+    "location": {
+      "lat": 52.2890002,
+      "lng": 8.010814
+    },
+    "website": "https://www.niels-stensen-kliniken.de/marienhospital-osnabrueck.html",
+    "phone": "+49 541 9664800",
+    "rating": 3,
+    "types": ["doctor", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Osnabrück"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:11:38.319Z",
+    "searchContext": {
+      "city": "Osnabrück",
+      "query": "DEXA Osnabrück"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.178Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJg_hVUavftkcRJJqebweKYyQ",
+    "name": "Mein Direktlabor - Labor Oldenburg",
+    "formattedAddress": "Koppelstraße 1, 26135 Oldenburg, Germany",
+    "location": {
+      "lat": 53.1351229,
+      "lng": 8.2179222
+    },
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-oldenburg/",
+    "phone": "+49 441 36140833",
+    "rating": 5,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Oldenburg"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:11:41.575Z",
+    "searchContext": {
+      "city": "Oldenburg",
+      "query": "laboratory Oldenburg"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.180Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["blutabnahme", "laboranalyse"],
+      "confidenceScore": 0.75,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJ31XpG1iuukcR1hCi2jO28nc",
+    "name": "Institut für Bildgebende Diagnostik und Interventionelle Radiologie | Helios Klinikum Hildesheim",
+    "formattedAddress": "Senator-Braun-Allee 33, 31135 Hildesheim, Germany",
+    "location": {
+      "lat": 52.1516586,
+      "lng": 9.9758649
+    },
+    "website": "https://www.helios-gesundheit.de/standorte-angebote/kliniken/hildesheim/leistungen/fachbereiche/radiologie/",
+    "phone": "+49 5121 8942702",
+    "rating": 1,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Hildesheim", "grid:45"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:11:53.598Z",
+    "searchContext": {
+      "city": "Hildesheim",
+      "query": "diagnostic center Hildesheim"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.205Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJQ2sLOlqSr0cR5_9UhQWEscw",
+    "name": "ZEUS (Zentrum für Entwicklungsdiagnostik und Sozialpädiatrie) am Klinikum Wolfsburg",
+    "formattedAddress": "Sauerbruchstraße 5a, 38440 Wolfsburg, Germany",
+    "location": {
+      "lat": 52.4116321,
+      "lng": 10.76769
+    },
+    "website": "https://www.klinikum.wolfsburg.de/kliniken/institute-und-zentren/sozialpaediatrisches-zentrum-spz-zeus/",
+    "phone": "+49 5361 801389",
+    "rating": 3.3,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "status": "OPERATIONAL",
+    "sources": ["city:Wolfsburg"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:12:04.712Z",
+    "searchContext": {
+      "city": "Wolfsburg",
+      "query": "medical center Wolfsburg"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.212Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.3,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJJcsJfVmSr0cRfkdFm6ix04Y",
+    "name": "Klinikum Wolfsburg, Klinik für bildgebende Diagnostik und interventionelle Radiologie",
+    "formattedAddress": "Sauerbruchstraße 7, 38440 Wolfsburg, Germany",
+    "location": {
+      "lat": 52.414359999999995,
+      "lng": 10.76775
+    },
+    "website": "https://www.klinikum.wolfsburg.de/kliniken/radiologie",
+    "phone": "+49 5361 801511",
+    "rating": 4.3,
+    "types": [
+      "doctor",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "status": "OPERATIONAL",
+    "sources": ["city:Wolfsburg", "grid:48", "grid:63", "grid:66", "grid:81"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:12:05.013Z",
+    "searchContext": {
+      "city": "Wolfsburg",
+      "query": "diagnostic center Wolfsburg"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.212Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.3,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJJcsJfVmSr0cRPi4neggAZAA",
+    "name": "Klinikum der Stadt Wolfsburg Institut für Klinische Chemie, Laboratoriums- und Transfusionsmedizin",
+    "formattedAddress": "Sauerbruchstraße 7, 38440 Wolfsburg, Germany",
+    "location": {
+      "lat": 52.414359999999995,
+      "lng": 10.76775
+    },
+    "website": "https://www.klinikum.wolfsburg.de/kliniken/institute-und-zentren/institut-fuer-labormedizin",
+    "phone": "+49 5361 801700",
+    "rating": 5,
+    "types": ["medical_lab", "point_of_interest", "health", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Wolfsburg", "grid:81"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:12:05.335Z",
+    "searchContext": {
+      "city": "Wolfsburg",
+      "query": "laboratory Wolfsburg"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.212Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.3,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJc8RUha0isEcR9l1j1OBhr5E",
+    "name": "MVZ Medizinisches Labor Celle GmbH",
+    "formattedAddress": "Neumarkt 1, 29223 Celle, Germany",
+    "location": {
+      "lat": 52.626428399999995,
+      "lng": 10.0796379
+    },
+    "website": "https://www.ml-celle.de/",
+    "phone": "+49 5141 92560",
+    "rating": 4.7,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Celle"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:12:22.902Z",
+    "searchContext": {
+      "city": "Celle",
+      "query": "medical center Celle"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.219Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJIcQrierrtkcRQtLreekffOQ",
+    "name": "SYNLAB MVZ Jade-Weser",
+    "formattedAddress": "Beethovenstraße 2, 26316 Varel, Germany",
+    "location": {
+      "lat": 53.390521,
+      "lng": 8.1398181
+    },
+    "website": "https://www.synlab.de/lab/jade-weser",
+    "phone": "+49 4451 951982402",
+    "rating": 3.4,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["city:Jever", "grid:123"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:16.850Z",
+    "searchContext": {
+      "city": "Jever",
+      "query": "laboratory Jever"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.249Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJ_5LnVhuwuEcRCj2ernpa3P0",
+    "name": "Clinic for Diagnostic and Interventional Radiology | Helios Hospital Krefeld",
+    "formattedAddress": "Lutherpl. 40, 47805 Krefeld, Germany",
+    "location": {
+      "lat": 51.3200572,
+      "lng": 6.5657822
+    },
+    "website": "https://www.helios-gesundheit.de/standorte-angebote/kliniken/krefeld/leistungen/fachbereiche/radiologie/",
+    "phone": "+49 2151 322561",
+    "rating": 4.8,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:0", "grid:18"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:51.933Z",
+    "searchContext": {
+      "tileId": 0,
+      "keyword": "diagnostic center",
+      "coordinates": "51.45,6.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.262Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJO_AwmhG_uEcRh0i6VwjeKmk",
+    "name": "Gerinnungszentrum Rhein-Ruhr GZRR",
+    "formattedAddress": "Königstraße 13, 47051 Duisburg, Germany",
+    "location": {
+      "lat": 51.43355390000001,
+      "lng": 6.7662663
+    },
+    "website": "https://www.gzrr.de/",
+    "phone": "+49 203 3483360",
+    "rating": 4.2,
+    "types": [
+      "medical_lab",
+      "doctor",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "status": "OPERATIONAL",
+    "sources": ["grid:0", "grid:18"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:52.196Z",
+    "searchContext": {
+      "tileId": 0,
+      "keyword": "clinical laboratory",
+      "coordinates": "51.45,6.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.262Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["blutabnahme"],
+      "confidenceScore": 0.3,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJdTWjHgQXuUcRNGQlDSZGLq8",
+    "name": "Somnolab",
+    "formattedAddress": "Am Kai 10, 44263 Dortmund, Germany",
+    "location": {
+      "lat": 51.490874,
+      "lng": 7.5066742
+    },
+    "website": "https://www.somnolab.de/",
+    "phone": "+49 231 94113040",
+    "rating": 4.4,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:3"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:54.051Z",
+    "searchContext": {
+      "tileId": 3,
+      "keyword": "clinical laboratory",
+      "coordinates": "51.45,7.65"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.265Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJF4Ig2Z7hvkcR7mMDLE0Bqm0",
+    "name": "SYNLAB MVZ Bonn",
+    "formattedAddress": "Dechenstraße 1, 53115 Bonn, Germany",
+    "location": {
+      "lat": 50.731316199999995,
+      "lng": 7.096895399999999
+    },
+    "website": "https://www.synlab.de/lab/bonn",
+    "phone": "+49 228 555260",
+    "rating": 4.4,
+    "types": ["medical_lab", "point_of_interest", "health", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": [
+      "grid:6",
+      "grid:9",
+      "grid:12",
+      "grid:15",
+      "grid:24",
+      "grid:27",
+      "grid:30",
+      "grid:33",
+      "grid:39",
+      "grid:42",
+      "grid:45",
+      "grid:48",
+      "grid:57",
+      "grid:60",
+      "grid:63",
+      "grid:66",
+      "grid:72",
+      "grid:75",
+      "grid:78",
+      "grid:81",
+      "grid:84",
+      "grid:87",
+      "grid:93",
+      "grid:99",
+      "grid:102",
+      "grid:105",
+      "grid:108",
+      "grid:117",
+      "grid:120",
+      "grid:123",
+      "grid:126",
+      "grid:135",
+      "grid:138",
+      "grid:141",
+      "grid:144",
+      "grid:150"
+    ],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:55.952Z",
+    "searchContext": {
+      "tileId": 6,
+      "keyword": "clinical laboratory",
+      "coordinates": "51.45,8.55"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.267Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler", "blutabnahme"],
+      "confidenceScore": 0.5,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJmdkQJco4u0cRBEYehVlVGZg",
+    "name": "SYNLAB MVZ Hessen GmbH",
+    "formattedAddress": "Kurt-Wolters-Straße 2-4, 34125 Kassel, Germany",
+    "location": {
+      "lat": 51.3206042,
+      "lng": 9.5030134
+    },
+    "website": "https://www.synlab.de/lab/hessen",
+    "phone": "+49 561 766440",
+    "rating": 4.4,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:9"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:57.798Z",
+    "searchContext": {
+      "tileId": 9,
+      "keyword": "clinical laboratory",
+      "coordinates": "51.45,9.45"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.271Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJez3pj-Ilv0cRPzVkkoMxZuw",
+    "name": "prohealth Testzentrum Köln",
+    "formattedAddress": "Hohenzollernring 26, 50672 Köln, Germany",
+    "location": {
+      "lat": 50.9381172,
+      "lng": 6.939734499999999
+    },
+    "website": "https://www.prohealth-koeln.de/",
+    "phone": "+49 1514 1644494",
+    "rating": 5,
+    "types": [
+      "medical_lab",
+      "medical_clinic",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "status": "OPERATIONAL",
+    "sources": [
+      "grid:12",
+      "grid:15",
+      "grid:33",
+      "grid:48",
+      "grid:81",
+      "grid:84",
+      "grid:90",
+      "grid:93",
+      "grid:99",
+      "grid:105",
+      "grid:108",
+      "grid:117",
+      "grid:120",
+      "grid:123",
+      "grid:126",
+      "grid:138",
+      "grid:141",
+      "grid:144",
+      "grid:30",
+      "grid:66",
+      "grid:135",
+      "grid:150"
+    ],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:13:59.649Z",
+    "searchContext": {
+      "tileId": 12,
+      "keyword": "clinical laboratory",
+      "coordinates": "51.45,10.35"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.272Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 2
+    }
+  },
+  {
+    "place_id": "ChIJM31dA50nsUcR7gCAsow0gZM",
+    "name": "Radiologie Zentrum Bremen im medicum | Brustdiagnostik, Sonographie, Knochendichtemessung",
+    "formattedAddress": "Schwachhauser Heerstraße 50, 28209 Bremen, Germany",
+    "location": {
+      "lat": 53.0822088,
+      "lng": 8.8343916
+    },
+    "website": "https://radiologie-zentrum-bremen.de/",
+    "phone": "+49 421 841313400",
+    "rating": 4.9,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:93", "grid:108"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:14:51.215Z",
+    "searchContext": {
+      "tileId": 93,
+      "keyword": "diagnostic center",
+      "coordinates": "52.95,9.15"
+    },
+    "category": "dexa_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.302Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["dexa"],
+      "confidenceScore": 0.3,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJ0XuvGxiPsUcRZsvhuRAo7IE",
+    "name": "Dermatologikum Hamburg",
+    "formattedAddress": "Stephanspl. 5, 20354 Hamburg, Germany",
+    "location": {
+      "lat": 53.5580578,
+      "lng": 9.9885346
+    },
+    "website": "https://www.dermatologikum.de/",
+    "phone": "+49 40 3510750",
+    "rating": 4.5,
+    "types": [
+      "medical_lab",
+      "skin_care_clinic",
+      "doctor",
+      "medical_clinic",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "status": "OPERATIONAL",
+    "sources": [
+      "grid:96",
+      "grid:111",
+      "grid:114",
+      "grid:129",
+      "grid:132",
+      "grid:147"
+    ],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:14:53.326Z",
+    "searchContext": {
+      "tileId": 96,
+      "keyword": "clinical laboratory",
+      "coordinates": "52.95,10.05"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.305Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.65,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJ_RNuoZWFsUcRE2MbgzYYpA0",
+    "name": "MEDILYS Laborgesellschaft mbH - Transfusionsmedizin",
+    "formattedAddress": "Geschäftsführung, Paul-Ehrlich-Straße 1, 22763 Hamburg, Germany",
+    "location": {
+      "lat": 53.5543081,
+      "lng": 9.899413899999999
+    },
+    "website": "https://www.medilys.de/fachgebiete/transfusionsmedizin/",
+    "phone": "+49 40 1818852000",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:13.843Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "diagnostic center",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.315Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 5
+    }
+  },
+  {
+    "place_id": "ChIJqS9rfrqFsUcR5UzeWX27z50",
+    "name": "MEDILYS Laborgesellschaft mbH - Infektionsserologie",
+    "formattedAddress": "Geschäftsführung, Paul-Ehrlich-Straße 1, 22763 Hamburg, Germany",
+    "location": {
+      "lat": 53.5543081,
+      "lng": 9.899413899999999
+    },
+    "website": "https://www.medilys.de/fachgebiete/infektionsserologie/",
+    "phone": "+49 40 1818815900",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:13.843Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "diagnostic center",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.315Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 5
+    }
+  },
+  {
+    "place_id": "ChIJkeQNcLyFsUcR9AHjdm1p3Gc",
+    "name": "MEDILYS Laborgesellschaft mbH - Molekulargenetik",
+    "formattedAddress": "Geschäftsführung, Paul-Ehrlich-Straße 1, 22763 Hamburg, Germany",
+    "location": {
+      "lat": 53.5543081,
+      "lng": 9.899413899999999
+    },
+    "website": "https://www.medilys.de/fachgebiete/molekulargenetik/",
+    "phone": "+49 40 1818815900",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:13.843Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "diagnostic center",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.315Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 5
+    }
+  },
+  {
+    "place_id": "ChIJN6updxWFsUcRiS0MP1ExCfE",
+    "name": "MEDILYS Laborgesellschaft mbH - Hämostaseologie",
+    "formattedAddress": "Geschäftsführung, Paul-Ehrlich-Straße 1, 22763 Hamburg, Germany",
+    "location": {
+      "lat": 53.5543081,
+      "lng": 9.899413899999999
+    },
+    "website": "https://www.medilys.de/fachgebiete/haemostaseologie/",
+    "phone": "+49 40 1818815900",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:13.843Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "diagnostic center",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.315Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 5
+    }
+  },
+  {
+    "place_id": "ChIJlYr2SUyFsUcRupzzDVMkTz4",
+    "name": "MEDILYS Laborgesellschaft mbH - Klinische Chemie",
+    "formattedAddress": "Geschäftsführung, Paul-Ehrlich-Straße 1, 22763 Hamburg, Germany",
+    "location": {
+      "lat": 53.5543081,
+      "lng": 9.899413899999999
+    },
+    "website": "https://www.medilys.de/fachgebiete/klinische-chemie/",
+    "phone": "+49 40 1818815900",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:13.843Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "diagnostic center",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.315Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 5
+    }
+  },
+  {
+    "place_id": "ChIJUVJLZKSFsUcRUeXvvAW2KpU",
+    "name": "MEDILYS Laborgesellschaft mbH - Hygiene / Krankenhaushygiene",
+    "formattedAddress": "Geschäftsführung, Paul-Ehrlich-Straße 1, 22763 Hamburg, Germany",
+    "location": {
+      "lat": 53.5543081,
+      "lng": 9.899413899999999
+    },
+    "website": "https://www.medilys.de/fachgebiete/hygiene/",
+    "phone": "+49 40 1818815900",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:13.843Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "diagnostic center",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.315Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["laboranalyse"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 5
+    }
+  },
+  {
+    "place_id": "ChIJf2SrGxiPsUcRgcuQUAV92pM",
+    "name": "Medical Laboratory Hamburg Stephansplatz",
+    "formattedAddress": "Stephanspl. 3, 20354 Hamburg, Germany",
+    "location": {
+      "lat": 53.5578544,
+      "lng": 9.9884813
+    },
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-stephansplatz/",
+    "phone": "+49 40 76696700",
+    "rating": 4.8,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129", "grid:132", "grid:144", "grid:147"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:14.124Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "clinical laboratory",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.316Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["blutabnahme", "laboranalyse"],
+      "confidenceScore": 0.6,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJwafN_D6MsUcRacoliC236w8",
+    "name": "SYNLAB MVZ Hamburg",
+    "formattedAddress": "Osterbekstraße 90C, 22083 Hamburg, Germany",
+    "location": {
+      "lat": 53.5829263,
+      "lng": 10.029233
+    },
+    "website": "https://www.synlab.de/lab/hamburg",
+    "phone": "+49 40 6506040",
+    "rating": 4,
+    "types": ["medical_lab", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:129"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:14.125Z",
+    "searchContext": {
+      "tileId": 129,
+      "keyword": "clinical laboratory",
+      "coordinates": "53.55,9.75"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.316Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 9
+    }
+  },
+  {
+    "place_id": "ChIJgQ-Jw48nskcRks9rp5Wyb9k",
+    "name": "Asklepios Klinik Nord - Heidberg - Pathologie / Neuropathologie",
+    "formattedAddress": "Tangstedter Landstraße 400, 22417 Hamburg, Germany",
+    "location": {
+      "lat": 53.6746589,
+      "lng": 10.0286829
+    },
+    "website": "https://www.asklepios.com/hamburg/nord/heidberg/experten/pathologie-neuropathologie/",
+    "phone": "+49 40 1818873092",
+    "rating": null,
+    "types": ["medical_clinic", "health", "point_of_interest", "establishment"],
+    "status": "OPERATIONAL",
+    "sources": ["grid:147"],
+    "source": "google_places",
+    "fetchedAt": "2026-02-23T14:15:25.070Z",
+    "searchContext": {
+      "tileId": 147,
+      "keyword": "diagnostic center",
+      "coordinates": "53.80,10.05"
+    },
+    "category": "blood_candidate",
+    "classifiedAt": "2026-02-23T14:44:58.321Z",
+    "verification": {
+      "verified": true,
+      "matchedKeywords": ["selbstzahler"],
+      "confidenceScore": 0.25,
+      "pagesScanned": 6
+    }
+  }
+]

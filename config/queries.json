@@ -1,0 +1,22 @@
+{
+  "region": "Germany",
+  "cities": [],
+  "maxProviders": 50000,
+  "dexaKeywords": [
+    "DEXA",
+    "DXA",
+    "DEXA Scan",
+    "Body Composition",
+    "Körperzusammensetzung",
+    "Körperanalyse",
+    "Ganzkörper DEXA"
+  ],
+  "bloodKeywords": [
+    "Bluttest",
+    "Blutuntersuchung",
+    "Blutlabor",
+    "Labor",
+    "Blutabnahme",
+    "Privatlabor"
+  ]
+}

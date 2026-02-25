@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Map</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Lab Map</h1>
+            <div class="header-controls">
+                <div class="search-group">
+                    <label for="search-input">Search by Name/Address: <span class="optional">(Optional)</span></label>
+                    <input type="text" id="search-input" placeholder="Enter city, name or address..." />
+                </div>
+                <div class="search-group">
+                    <label for="filter-dropdown">Filter by Type:</label>
+                    <select id="filter-dropdown">
+                        <option value="all">All</option>
+                        <option value="dexa">DEXA</option>
+                        <option value="blood">Blood</option>
+                    </select>
+                </div>
+            </div>
+            <div class="header-controls">
+                <div class="search-group">
+                    <label for="postal-code-input">Search by Postal Code: <span class="optional">(Optional)</span></label>
+                    <div class="distance-search-wrapper">
+                        <input type="text" id="postal-code-input" placeholder="Postal code..." />
+                        <input type="number" id="distance-input" placeholder="10" min="1" max="500" value="10" />
+                        <span class="distance-label">km</span>
+                        <button id="distance-search-btn">Search</button>
+                    </div>
+                    <div id="distance-error" class="distance-error-message" aria-live="polite"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main content: map + sliding detail panel -->
+        <div class="main-content">
+            <!-- Leaflet Map Container -->
+            <div id="map"></div>
+            <!-- Sliding provider details panel -->
+            <div id="provider-sidebar" class="provider-sidebar">
+                <div class="sidebar-header">
+                    <h2>Provider Details</h2>
+                    <button id="sidebar-close-btn" class="sidebar-close-btn" type="button">×</button>
+                </div>
+                <div id="provider-sidebar-content" class="sidebar-content">
+                    <div id="provider-list" class="provider-list"></div>
+                    <div id="provider-detail" class="provider-detail-panel">
+                        <p class="provider-detail-placeholder">Select a provider on the map or from the list.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Leaflet MarkerCluster plugin -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Custom Script -->
+    <script src="script.js"></script>
+</body>
+</html>

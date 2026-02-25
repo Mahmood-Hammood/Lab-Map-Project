@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Dependency locks (optional – keep if you want deterministic builds)
+# package-lock.json
+
+# Data output from scripts (keep raw inputs out of git if large)
+data-collection/*.log
+scripts/testplaces.js
+command.md
