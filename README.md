@@ -15,13 +15,6 @@ Der aktuelle Stand fokussiert sich auf Deutschland (mit besonderem Fokus auf Nie
 - **Datenbeschaffung**: Node.js zur automatisierten Abfrage von Anbietern + manueller/halbautomatischer Verifikation
 - **Datenablage**: JSON-Dateien im Verzeichnis `data-collection` (zum direkten Einlesen ins Frontend)
 
-## Hinweis zu meinem Hintergrund & Tools
-
-- Ich habe keine Erfahrung mit Node.js und habe bisher **keine Erfahrung mit Node.js**. In JavaScript, HTML und CSS habe ich nur **grundlegende Kenntnisse**.
-- Für dieses Projekt habe ich bewusst **GitHub Copilot (in Visual Studio Code)** als Unterstützung eingesetzt. Viele Code-Vorschläge (vor allem bei komplexeren Funktionen und der Struktur) stammen von Copilot; ich habe sie verstanden, angepasst und in das Gesamtkonzept integriert.
-- Mir ist wichtig, transparent zu sein: Ich bewerbe mich **nicht** als Senior-Web-Entwickler, sondern als jemand, der strukturiert arbeitet, ehrlich mit seinem Wissensstand umgeht und moderne Tools nutzt, um schneller zu lernen und bessere Ergebnisse zu erzielen.
-
-Ich bewerbe mich als KI-Entwickler/ KI-Engineer / KI Automation Engineer / RAG and LLMs Engineer .... aber für Frontend später bin ich auch offen.
 
 ## 2. Lokales Setup
 
